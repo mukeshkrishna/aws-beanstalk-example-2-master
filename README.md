@@ -1,4 +1,4 @@
-# Continuous Integration and Continuous Deployment using AWS CodePipeline Example.
+# Continuous Integration and Continuous Deployment using AWS CodePipeline Example
 
 ## Architecture
 <img src="architecture.png" width="90%" />
